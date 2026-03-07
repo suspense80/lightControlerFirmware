@@ -1,6 +1,14 @@
 {
-  "count": 7,
+  "count": 8,
   "firmwares": [
+    {
+      "file": "firmware_1.1.28.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/firmware_1.1.28.bin",
+      "sha256": "b1c18d46ba3248000e0f20a13e9ed3896f407ec72c95cfc6ac5b824f6be46cef",
+      "downgrade": false,
+      "size": 1178128,
+      "version": "1.1.28"
+    },
     {
       "file": "firmware_1.1.26.bin",
       "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/firmware_1.1.26.bin",
