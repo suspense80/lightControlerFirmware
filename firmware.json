@@ -1,4 +1,29 @@
 {
-  "count": 0,
-  "firmwares": []
+  "count": 3,
+  "firmwares": [
+    {
+      "file": "firmware/firmware_1.2.7.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/firmware/firmware_1.2.7.bin",
+      "sha256": "c86a8709cee9935fbdf8b3c7e0b9886915e29c006b5f7554b19b128eedd15e04",
+      "develop": false,
+      "size": 1151792,
+      "version": "1.2.7"
+    },
+    {
+      "file": "firmware/firmware_1.2.6.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/firmware/firmware_1.2.6.bin",
+      "sha256": "05653e147661efa80073d4bae13b418ffbd62296e47daa979aa439fd6c9a7f1c",
+      "develop": false,
+      "size": 1134656,
+      "version": "1.2.6"
+    },
+    {
+      "file": "firmware/firmware_1.2.5.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/firmware/firmware_1.2.5.bin",
+      "sha256": "63a69bf11d3bc46adf11d9d66fb8114c2afb536352f342557355ac2f28aeff9e",
+      "develop": false,
+      "size": 1134656,
+      "version": "1.2.5"
+    }
+  ]
 }
