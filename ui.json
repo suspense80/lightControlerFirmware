@@ -1,6 +1,33 @@
 {
-  "count": 6,
+  "count": 9,
   "filesystems": [
+    {
+      "file": "ui/data_1.0.8.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/ui/data_1.0.8.bin",
+      "sha256": "84add7a8829d67cc68cb6d4c3b446293f792065975fd52ef729a1c6bbaf9450c",
+      "develop": false,
+      "size": 1245184,
+      "version": "1.0.8",
+      "uiVersion": "1.0.8"
+    },
+    {
+      "file": "ui/data_1.0.7.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/ui/data_1.0.7.bin",
+      "sha256": "2ade3e9900563fdb0961afcf0cfddbdea26b290daa0a48bd02b34584cea654f6",
+      "develop": false,
+      "size": 1245184,
+      "version": "1.0.7",
+      "uiVersion": "1.0.7"
+    },
+    {
+      "file": "ui/data_1.0.6.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/ui/data_1.0.6.bin",
+      "sha256": "f72091229a3a3d5d3e216461816c4e6e3d49c243f46a04c056226d345ece4b16",
+      "develop": false,
+      "size": 1245184,
+      "version": "1.0.6",
+      "uiVersion": "1.0.6"
+    },
     {
       "file": "ui/data_1.0.5.bin",
       "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/ui/data_1.0.5.bin",
