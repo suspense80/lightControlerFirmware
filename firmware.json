@@ -1,6 +1,14 @@
 {
-  "count": 11,
+  "count": 12,
   "firmwares": [
+    {
+      "file": "firmware/firmware_1.2.17.bin",
+      "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/firmware/firmware_1.2.17.bin",
+      "sha256": "5bb72b6e2f52af52a3f480a64b3eab6e19fb345673c6c7b26f90f3db9baae7e6",
+      "develop": false,
+      "size": 1240912,
+      "version": "1.2.17"
+    },
     {
       "file": "firmware/firmware_1.2.16.bin",
       "url": "https://raw.githubusercontent.com/suspense80/lightControlerFirmware/main/firmware/firmware_1.2.16.bin",
